@@ -17,7 +17,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.10.2",
 	"appid": "wx27aec7796f08a9ea",
-	"projectname": "WePYMiniProgram",
+	"projectname": "wepyprogram",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
